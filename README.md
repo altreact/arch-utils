@@ -13,6 +13,8 @@ fast start from base arch linux install
 
 * adds newly created user to /etc/sudoers list
 
+"sudo sh helper.sh"
+
 contact me for additions to this script and / or fork away!
 
 enjoy!
